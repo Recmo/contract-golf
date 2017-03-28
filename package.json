@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Recmo/contract-golf/issues"
   },
-  "homepage": "https://github.com/Recmo/contract-golf#readme"
+  "homepage": "https://github.com/Recmo/contract-golf#readme",
+  "devDependencies": {
+    "truffle": "^3.2.1"
+  }
 }
