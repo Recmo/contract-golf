@@ -1,0 +1,26 @@
+{
+  "name": "contract-golf",
+  "version": "1.0.0",
+  "description": "Smart contract code golf — minimize gas cost",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Recmo/contract-golf.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart-contract",
+    "code-golf",
+    "game"
+  ],
+  "author": "Remco Bloemen <Remco@2π.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Recmo/contract-golf/issues"
+  },
+  "homepage": "https://github.com/Recmo/contract-golf#readme"
+}
